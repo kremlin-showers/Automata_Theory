@@ -6,4 +6,5 @@ Along with that a few other resources that were helpful have been listed
 
 
 Incredibly well made video on the standard pumping lemma for DFA proofs: https://www.youtube.com/watch?v=x2J5kaf6gjg&pp=ygUecHVtcGluZyBsZW1tYSBleGFtcGxlIHByb2JsZW1z
+
 A Nice reference to just get the initial hang of turing Machines: https://kanchiuniv.ac.in/coursematerials/Maths_course_material_2021-22_Odd&EvenSem/10136-PCC-CS501-5.pdf
